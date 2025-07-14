@@ -40,7 +40,7 @@
   inline-size: 9px;
   border-radius: 50%;
   background-color: var(--rec-text-color);
-	box-shadow: 0px 0px 4px 2px var(--rec-text-color);
+  box-shadow: 0px 0px 4px 2px var(--rec-text-color);
   top: 8px;
   right: 9px;
 }
