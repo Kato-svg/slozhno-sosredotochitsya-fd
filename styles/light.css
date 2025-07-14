@@ -1,10 +1,25 @@
 :root.theme-light {
   --bg-image: url(../images/cover-image-light.png);
   --bg-color: #fff1f7;
-  --main-font: 'IBM Plex Mono';
-  --button-text-color: #353430;
   --rec-text-color: transparent;
+  --decorated-color: #353430;
+  --button-text-color: #353430;
+  --text-color: #353430;
   --title-color: #FFC2E6;
   --accent-color: #FF8DCB;
   --decor-text-color: rgba(53, 52, 48, 1);
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+  --bg-image: url(../images/cover-image-light.png);
+  --bg-color: #fff1f7;
+  --rec-text-color: transparent;
+  --decorated-color: #353430;
+  --button-text-color: #353430;
+  --text-color: #353430;
+  --title-color: #FFC2E6;
+  --accent-color: #FF8DCB;
+  --decor-text-color: rgba(53, 52, 48, 1);
+  }
 }

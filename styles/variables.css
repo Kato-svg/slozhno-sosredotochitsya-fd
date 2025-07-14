@@ -1,8 +1,9 @@
 :root {
   --bg-image: url(../images/cover-image-dark.png);
   --bg-color: #000028;
-  --button-text-color: #FF0070;
   --rec-text-color: #FF0070;
+  --decorated-color: #FF0070;
+  --button-text-color: #FF0070;
   --title-color: #DB00FF;
   --accent-color: #FF0070;
   --decor-text-color: rgba(0, 0, 40, 1);
