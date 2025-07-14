@@ -95,7 +95,7 @@
 }
 
 .header__theme-menu-button:hover {
-  outline: 1px solid var(--button-text-color);
+  outline: 1px solid var(--hover-text-color);
 }
 
 .header__theme-menu-button_active {
@@ -213,8 +213,9 @@
 .footer__title {
   font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
   color: var(--title-color);
-  text-shadow: 4px 4px 0 var(--accent-color);
+  text-shadow: 2px 2px 0 var(--accent-color);
   align-self: center;
+  font-size: var(--title-size);
 }
 
 

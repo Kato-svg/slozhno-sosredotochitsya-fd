@@ -4,6 +4,7 @@
   --rec-text-color: transparent;
   --decorated-color: #353430;
   --button-text-color: #353430;
+  --hover-text-color: rgba(50, 49, 45, 0.4);
   --text-color: #353430;
   --title-color: #FFC2E6;
   --accent-color: #FF8DCB;
@@ -17,6 +18,7 @@
   --rec-text-color: transparent;
   --decorated-color: #353430;
   --button-text-color: #353430;
+  --hover-text-color: rgba(50, 49, 45, 0.4);
   --text-color: #353430;
   --title-color: #FFC2E6;
   --accent-color: #FF8DCB;
